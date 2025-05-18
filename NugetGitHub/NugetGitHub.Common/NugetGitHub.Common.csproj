@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/jhoyuen/NugetMaman</RepositoryUrl>
+    <Title>NugetGitHub.Common</Title>
+    <Description>This provides additional extension methods to solve common problems in string, DateTime and other primitive types</Description>
+    <PackageReleaseNotes>Initial release contains extension method to validate a string email</PackageReleaseNotes>
+    <Version>0.0.1</Version>
+  </PropertyGroup>
+
+</Project>
